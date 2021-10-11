@@ -6,6 +6,13 @@
 ###### Atuação: game designer e programadora.
 ###### Linguagem de Programação: C++.
 ###### Objetivo: demonstrar o movimento oblíquo em uma interface interativa.
+###### Controles: digitar ângulo (ex: 45, 60) e utilizar a tecla SPACE (barra de espaço), para parar a barra de força.
+
+Gameplay:
+
+![Battle Cannon gameplay](https://github.com/abressam/battle-cannon/blob/main/gameplay-battle-cannon.gif)
+
+Imagens dos mapas em ASCII:
 
 ![Battle Cannon mapa 1](https://github.com/abressam/battle-cannon/blob/main/map1.png)
 
